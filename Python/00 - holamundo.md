@@ -12,18 +12,19 @@ Imprime por terminal el texto: "¡Hola, [y el nombre de tu lenguaje]!"
 
 --------------------------------------------------------
 
-## [Documentacion](https://python.org)
+```py
+# https://python.org
 
-## Esto es un comentario en una sola linea
+# Esto es un comentario en una sola linea
 
 """
-Esto tambien es
+Esto tambien es 
 un comentario
 en varias lineas
 """
 
 '''
-Esto tambien es
+Esto tambien es 
 un comentario
 en varias lineas
 '''
@@ -46,3 +47,4 @@ print(type(my_int))
 print(type(my_float))
 print(type(my_bool))
 print(type(my_string))
+```
